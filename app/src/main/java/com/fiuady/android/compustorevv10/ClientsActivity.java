@@ -286,6 +286,7 @@ public class ClientsActivity extends AppCompatActivity implements AdapterView.On
         });
 
     }
+    //
 
     @Override
     protected void onSaveInstanceState(Bundle outState) {
